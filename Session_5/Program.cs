@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel;
 
-namespace TaskSession4
+namespace TaskSession5
 {
     internal class Program
     {
