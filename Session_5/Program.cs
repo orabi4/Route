@@ -8,16 +8,17 @@ namespace TaskSession5
         static void Main(string[] args)
         {
             #region Q1
+            // Passing by value vs passing by reference
             // //passing by value: mean that we send a copy of values
             // //passing by reference: mean we send values itself
-            // //EX by value
+            //  by value
             // int sum(int x, int y)
             // {
             //     return x + y;
             // }
             // int a = 6, b = 7;
             // Console.WriteLine(sum(a, b));
-            // //EX by reference
+            //  by reference
             // int sum2(ref int x, ref int y)
             // {
             //     return x + y;
