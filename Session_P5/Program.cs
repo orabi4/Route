@@ -47,18 +47,18 @@ class Program
         #endregion
         #region ThirdProject
 
-        Duration duration = new Duration();
-        Console.WriteLine($"Duration = {duration}");
-        Console.WriteLine($"Equal: {duration.Equals(new Duration())}");
-        Console.WriteLine($"HashCode: {duration.GetHashCode()}");
-        Duration d1 =new  Duration (1,10,15);
-        Console.WriteLine(d1.ToString());
-        Duration D1 =new Duration (3600);
-        Console.WriteLine(D1.ToString()); 
-        Duration D2 =new Duration (7800);
-        Console.WriteLine(D2.ToString());
-        Duration D3 =new Duration (666);
-        Console.WriteLine(D3.ToString());
+        // Duration duration = new Duration();
+        // Console.WriteLine($"Duration = {duration}");
+        // Console.WriteLine($"Equal: {duration.Equals(new Duration())}");
+        // Console.WriteLine($"HashCode: {duration.GetHashCode()}");
+        // Duration d1 =new  Duration (1,10,15);
+        // Console.WriteLine(d1.ToString());
+        // Duration D1 =new Duration (3600);
+        // Console.WriteLine(D1.ToString()); 
+        // Duration D2 =new Duration (7800);
+        // Console.WriteLine(D2.ToString());
+        // Duration D3 =new Duration (666);
+        // Console.WriteLine(D3.ToString());
 
 
         #endregion
